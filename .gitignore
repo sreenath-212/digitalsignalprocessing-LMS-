@@ -1,0 +1,24 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.fig
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (optional)
+results/
+plots/
+*.png
+*.pdf
+
+# Logs
+*.log
